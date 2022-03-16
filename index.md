@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的页面
 
-You can use the [editor on GitHub](https://github.com/aabbaabc/aabbaabc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+您可以点击[编辑](https://github.com/aabbaabc/aabbaabc.github.io/edit/main/index.md) 以在 Markdown 文件中维护和预览您网站的内容
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
