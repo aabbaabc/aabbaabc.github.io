@@ -2,6 +2,8 @@
 
 您可以点击[编辑](https://github.com/aabbaabc/aabbaabc.github.io/edit/main/index.md) 以在 Markdown 文件中维护和预览您网站的内容
 
+[点此链接](https://aabbaabc.github.io/ziyuan.html)可看到资源目录
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
