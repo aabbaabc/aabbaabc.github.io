@@ -17,6 +17,8 @@
 
 [Azure文本转语音](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/)
 
+[拼音首字母缩写释义工具](https://lab.magiconch.com/nbnhhsh/)
+
 ```markdown
 Syntax highlighted code block
 
