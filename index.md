@@ -19,6 +19,8 @@
 
 [拼音首字母缩写释义工具](https://lab.magiconch.com/nbnhhsh/)
 
+[在线解锁音乐](https://aabbaabc.github.io/unlock_music/)
+
 ```markdown
 Syntax highlighted code block
 
