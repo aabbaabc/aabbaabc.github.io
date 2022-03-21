@@ -17,7 +17,7 @@
 
 [Azure文本转语音](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/)
 
-[拼音首字母缩写释义工具](https://lab.magiconch.com/nbnhhsh/)
+[拼音首字母缩写释义工具](https://aabbaabc.github.io/nbnhhsh/)
 
 [在线解锁音乐](https://aabbaabc.github.io/unlock_music/)
 
