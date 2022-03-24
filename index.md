@@ -47,6 +47,10 @@
 └─工具同步说明.txt  
 ```
 
+## 个人用文件
+[https://tes.lanzoum.com/b011ew5ed](https://tes.lanzoum.com/b011ew5ed)
+密码:9raz
+
 ## 维护说明
 
 点击 [编辑](https://github.com/aabbaabc/aabbaabc.github.io/edit/main/index.md) 以在 Markdown 文件中维护和预览您网站的内容
