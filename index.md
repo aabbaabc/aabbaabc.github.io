@@ -49,7 +49,7 @@
 ```
 
 ## 个人用文件
-[https://tes.lanzoum.com/b011ew5ed](https://tes.lanzoum.com/b011ew5ed)
+[https://tes.lanzoum.com/b011ew5ed](https://www.lanzoui.com/b011ew5ed)
 密码:9raz
 
 ## 维护说明
