@@ -21,6 +21,8 @@
 
 [在线解锁音乐](https://aabbaabc.github.io/unlock_music/)
 
+[在线MD5加密](https://aabbaabc.github.io/md5)
+
 ## 资源目录
 
 [点此链接](https://aabbaabc.github.io/ziyuan.html)可看到资源目录
