@@ -51,8 +51,7 @@
 ```
 
 ## 个人用文件
-[https://tes.lanzoum.com/b011ew5ed](https://www.lanzoui.com/b011ew5ed)
-密码:9raz
+[http://awsltest.ysepan.com/](http://awsltest.ysepan.com/)
 
 ## 维护说明
 
