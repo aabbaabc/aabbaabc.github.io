@@ -11,7 +11,7 @@
 
 [10分钟邮箱](https://10minutemail.org/)
 
-[贝贝文件云]([https://airportal.cn/](https://xbeibeix.com/file/))
+[贝贝文件云](https://xbeibeix.com/file/)
 
 [Convertio在线文件转换器](https://convertio.co/zh)
 
