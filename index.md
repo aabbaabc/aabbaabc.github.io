@@ -53,6 +53,15 @@
 ## 个人用文件
 [http://awsltest.ysepan.com/](http://awsltest.ysepan.com/)
 
+## 安卓换机必备
+[ZArchiver官网](http://www.zdevs.ru/en/za/apk.html)
+[Bilibili]
+[WPS Office Pro]
+[清浊]
+[LX-Music](https://github.com/lyswhut/lx-music-mobile)
+[KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+
+
 ## 维护说明
 
 点击 [编辑](https://github.com/aabbaabc/aabbaabc.github.io/edit/main/index.md) 以在 Markdown 文件中维护和预览您网站的内容
